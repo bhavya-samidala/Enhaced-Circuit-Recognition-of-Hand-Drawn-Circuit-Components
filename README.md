@@ -1,1 +1,3 @@
-# ckt_recognition
+# Enhanced Circuit Component Recognition 
+The project presents a methodology to automate the identification of hand-drawn electronic circuit components using two deep learning approaches: Fast R-CNN and Faster R-CNN. The study used a dataset of 22 electronic components, such as resistors, transistors, and logic gates, consisting of 4,235 images with various orientations and conditions.
+The key findings highlight that Faster R-CNN outperforms Fast R-CNN, with a 1.5% improvement in accuracy due to its Region Proposal Network (RPN), which enhances detection precision and reduces misclassification. The project demonstrates the models' potential to streamline the design process by automating circuit diagram conversion for simulation purposes
